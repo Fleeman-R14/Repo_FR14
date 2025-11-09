@@ -154,9 +154,9 @@ http://101.35.240.114:88/phenix.php?id=fhhk
 http://8.138.7.223/tv/cwjd.php
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" http-user-agent="iPhone" http-header="Referer=https://live.kankanews.com/" group-title="APTV专享",五星体育
 http://101.35.240.114:88/live.php?id=五星体育
-#EXTINF:-1 tvg-name="韩国电影1" tvg-logo="https://live.fanmingming.cn/tv/韩国电影1.png" group-title="港澳台频道",韩国电影1
+#EXTINF:-1 tvg-name="韩国电影1" tvg-logo="https://live.fanmingming.cn/tv/韩国电影1.png" group-title="APTV专享",韩国电影1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1 tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.cn/tv/韩国电影2.png" group-title="港澳台频道",韩国电影2
+#EXTINF:-1 tvg-name="韩国电影2" tvg-logo="https://live.fanmingming.cn/tv/韩国电影2.png" group-title="APTV专享",韩国电影2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 
 #☘️北京频道#
